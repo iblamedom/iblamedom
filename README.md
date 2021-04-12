@@ -1,7 +1,7 @@
 
  
 
-
+<link rel="stylesheet" href="../css/social-circles.min.css">
 
 <p align="center">
     I'm @iblamedom<br>
@@ -27,4 +27,3 @@ I'm a hacker, AI and Digital Health geek,<br> a medical doctor and proud member 
 
 
 
-Created by [@iblamedom](http://www.iblamedom.com/) - feel free to contact me!
