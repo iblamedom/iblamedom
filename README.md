@@ -1,6 +1,4 @@
-<p align="center">
 
-![myImage](https://media.tenor.com/images/d38d75a07054e022efd737caee1c502c/tenor.gif)
  
 
 
@@ -8,13 +6,14 @@
 <p align="center">
     I'm @iblamedom<br>
 I'm a hacker, AI and Digital Health geek,<br> a medical doctor and proud member of <br> 
-[HackerspaceWroclaw](http://HackerspaceWroclaw.github.io)
+[HackerspaceWroclaw](http://HackerspaceWroclaw.github.io) <br>
+   <img src="https://media.tenor.com/images/d38d75a07054e022efd737caee1c502c/tenor.gif">
   <b>Some Links:</b><br>
   <a href="#">www.twitter.com/iblamedom<img src="![alt text](https://github.com/iblamedom//blob/[branch]/image.jpg?raw=true)</a> |
   <a href="#">Link 2</a> |
   <a href="#">Link 3</a>
   <br><br>
-  <img src="http://s.4cdn.org/image/title/105.gif">
+  <img src="https://media.tenor.com/images/d38d75a07054e022efd737caee1c502c/tenor.gif">
 </p>
 
 <p align="center">
