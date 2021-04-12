@@ -3,7 +3,7 @@
 <p align='center'>
 I'm @iblamedom<br>
 I'm a hacker, AI and Digital Health geek,<br> a medical doctor and proud member of <br> 
-[HackerspaceWroclaw](http://HackerspaceWroclaw.github.io)
+[@HackerspaceWroclaw](https://github.com/HackerspaceWroclaw)
 
 
 <br>
