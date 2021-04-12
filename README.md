@@ -6,10 +6,10 @@
 <p align="center">
     I'm @iblamedom<br>
 I'm a hacker, AI and Digital Health geek,<br> a medical doctor and proud member of <br> 
-<a href="http://www.HackerspaceWroclaw.github.io">HackerSpaceWrocław</a>() <br>
+<a href="http://www.HackerspaceWroclaw.github.io">HackerSpaceWrocław</a><br>
    <img src="https://media.tenor.com/images/d38d75a07054e022efd737caee1c502c/tenor.gif">
-  <b>Some Links:</b><br>
-  <a href="#">www.twitter.com/iblamedom<img src="![alt text](https://github.com/iblamedom//blob/[branch]/image.jpg?raw=true)</a> |
+  <br>
+  <a href="www.twitter.com/iblamedom"><img src="GitHub-Mark-Light-120px-plus.png</a> |
   <a href="#">Link 2</a> |
   <a href="#">Link 3</a>
   <br><br>
