@@ -9,7 +9,7 @@ I'm a hacker, AI and Digital Health geek,<br> a medical doctor and proud member 
 <br>
 
 <p align="center">
-    <a href="www.twitter.com/iblamedom" alt="Twitter" rel="nofollow"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg" style="max-width:100%;"></a>
+    <a href="www.twitter.com/iblamedom" alt="Twitter" rel="nofollow"><img src="" style="max-width:100%;"></a>
     <a href="www.linkedin.com/in/dominikstosik" alt="Linkedin" rel="nofollow"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg" style="max-width:100%;"></a>
     <a href="mailto:office@iblamedom.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg" style="max-width:100%;"></a>
     <a href="www.iblamedom.com" alt="My site" rel="nofollow"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg" style="max-width:100%;"></a>
