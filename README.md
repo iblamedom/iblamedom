@@ -1,14 +1,10 @@
 <!-- maybe header later  -->
-<p align='center'>
-<img src='https://media.tenor.com/images/d38d75a07054e022efd737caee1c502c/tenor.gif'><img width='400px' height='100px'></a></p>
-
-<!-- <img src="https://media.tenor.com/images/d38d75a07054e022efd737caee1c502c/tenor.gif" width="300px">  
+<p align='center' img src="https://media.tenor.com/images/d38d75a07054e022efd737caee1c502c/tenor.gif" width="300px">  
 <br/>
 I'm
-
 #### iblamedom <br/>
  a hacker, AI and Digital Health geek,<br/> medical doctor and proud member of [@HackerspaceWroclaw](https://github.com/HackerspaceWroclaw)
-
+<p/> 
 
 You can find me on [![Twitter][1.1]][1].
 
