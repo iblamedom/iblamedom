@@ -1,11 +1,8 @@
 <p align="center">
 <img src="https://media.tenor.com/images/d38d75a07054e022efd737caee1c502c/tenor.gif" width="300px">
-
-
-
 <p align='center'>
 I'm<br>
-iblamedom
+## iblamedom<br>
 a hacker, AI and Digital Health geek,<br> medical doctor and proud member of [HackerspaceWroclaw](https://github.com/HackerspaceWroclaw)
 </p> 
 
