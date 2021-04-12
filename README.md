@@ -9,7 +9,7 @@ I'm a hacker, AI and Digital Health geek,<br> a medical doctor and proud member 
 <a href="http://www.HackerspaceWroclaw.github.io">HackerSpaceWrocław</a><br>
 
   <br>
-  <a href="www.twitter.com/iblamedom"><img src="https://github.com/iblamedom/iblamedom/blob/f81f34f6be3d15ee7fd25599a0c156f336e2e7f0/GitHub-Mark-Light-120px-plus.png></a> |
+  <a href="https://www.twitter.com/iblamedom"><img src="https://github.com/iblamedom/iblamedom/blob/f81f34f6be3d15ee7fd25599a0c156f336e2e7f0/GitHub-Mark-Light-120px-plus.png></a> |
   <a href="#">Link 2</a> |
   <a href="#">Link 3</a>
   <br><br>
