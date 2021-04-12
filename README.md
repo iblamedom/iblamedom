@@ -1,5 +1,8 @@
 <p align='center'>
+![alt text](https://media.tenor.com/images/d38d75a07054e022efd737caee1c502c/tenor.gif "Title")
+
 ![myImage](https://media.tenor.com/images/d38d75a07054e022efd737caee1c502c/tenor.gif)
+    ![myImage](https://media.giphy.com/media/XRB1uf2F9bGOA/giphy.gif)
 
 I'm @iblamedom<br>
 I'm a hacker, AI and Digital Health geek,<br> a medical doctor and proud member of <br> 
