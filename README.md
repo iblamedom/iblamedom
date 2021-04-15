@@ -6,7 +6,7 @@
 <p align="center">
     I'm @iblamedom<br>
 I'm a hacker, AI and Digital Health geek,<br> a medical doctor and proud member of <br> 
-<a href="http://www.HackerspaceWroclaw.github.io">HackerSpaceWrocław</a><br>
+<a href="https://github.com/HackerspaceWroclaw">HackerSpaceWrocław</a><br>
 
   <br>
 
